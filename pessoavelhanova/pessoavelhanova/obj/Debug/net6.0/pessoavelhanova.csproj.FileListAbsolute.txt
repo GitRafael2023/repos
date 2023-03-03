@@ -1,0 +1,15 @@
+C:\Users\Joao.roferreira\source\repos\pessoavelhanova\pessoavelhanova\bin\Debug\net6.0\pessoavelhanova.exe
+C:\Users\Joao.roferreira\source\repos\pessoavelhanova\pessoavelhanova\bin\Debug\net6.0\pessoavelhanova.deps.json
+C:\Users\Joao.roferreira\source\repos\pessoavelhanova\pessoavelhanova\bin\Debug\net6.0\pessoavelhanova.runtimeconfig.json
+C:\Users\Joao.roferreira\source\repos\pessoavelhanova\pessoavelhanova\bin\Debug\net6.0\pessoavelhanova.dll
+C:\Users\Joao.roferreira\source\repos\pessoavelhanova\pessoavelhanova\bin\Debug\net6.0\ref\pessoavelhanova.dll
+C:\Users\Joao.roferreira\source\repos\pessoavelhanova\pessoavelhanova\bin\Debug\net6.0\pessoavelhanova.pdb
+C:\Users\Joao.roferreira\source\repos\pessoavelhanova\pessoavelhanova\obj\Debug\net6.0\pessoavelhanova.csproj.AssemblyReference.cache
+C:\Users\Joao.roferreira\source\repos\pessoavelhanova\pessoavelhanova\obj\Debug\net6.0\pessoavelhanova.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Joao.roferreira\source\repos\pessoavelhanova\pessoavelhanova\obj\Debug\net6.0\pessoavelhanova.AssemblyInfoInputs.cache
+C:\Users\Joao.roferreira\source\repos\pessoavelhanova\pessoavelhanova\obj\Debug\net6.0\pessoavelhanova.AssemblyInfo.cs
+C:\Users\Joao.roferreira\source\repos\pessoavelhanova\pessoavelhanova\obj\Debug\net6.0\pessoavelhanova.csproj.CoreCompileInputs.cache
+C:\Users\Joao.roferreira\source\repos\pessoavelhanova\pessoavelhanova\obj\Debug\net6.0\pessoavelhanova.dll
+C:\Users\Joao.roferreira\source\repos\pessoavelhanova\pessoavelhanova\obj\Debug\net6.0\ref\pessoavelhanova.dll
+C:\Users\Joao.roferreira\source\repos\pessoavelhanova\pessoavelhanova\obj\Debug\net6.0\pessoavelhanova.pdb
+C:\Users\Joao.roferreira\source\repos\pessoavelhanova\pessoavelhanova\obj\Debug\net6.0\pessoavelhanova.genruntimeconfig.cache

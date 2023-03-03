@@ -1,0 +1,15 @@
+C:\Users\Joao.roferreira\source\repos\Cadastro_Aula1502\Cadastro_Aula1502\bin\Debug\net6.0\Cadastro_Aula1502.exe
+C:\Users\Joao.roferreira\source\repos\Cadastro_Aula1502\Cadastro_Aula1502\bin\Debug\net6.0\Cadastro_Aula1502.deps.json
+C:\Users\Joao.roferreira\source\repos\Cadastro_Aula1502\Cadastro_Aula1502\bin\Debug\net6.0\Cadastro_Aula1502.runtimeconfig.json
+C:\Users\Joao.roferreira\source\repos\Cadastro_Aula1502\Cadastro_Aula1502\bin\Debug\net6.0\Cadastro_Aula1502.dll
+C:\Users\Joao.roferreira\source\repos\Cadastro_Aula1502\Cadastro_Aula1502\bin\Debug\net6.0\ref\Cadastro_Aula1502.dll
+C:\Users\Joao.roferreira\source\repos\Cadastro_Aula1502\Cadastro_Aula1502\bin\Debug\net6.0\Cadastro_Aula1502.pdb
+C:\Users\Joao.roferreira\source\repos\Cadastro_Aula1502\Cadastro_Aula1502\obj\Debug\net6.0\Cadastro_Aula1502.csproj.AssemblyReference.cache
+C:\Users\Joao.roferreira\source\repos\Cadastro_Aula1502\Cadastro_Aula1502\obj\Debug\net6.0\Cadastro_Aula1502.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Joao.roferreira\source\repos\Cadastro_Aula1502\Cadastro_Aula1502\obj\Debug\net6.0\Cadastro_Aula1502.AssemblyInfoInputs.cache
+C:\Users\Joao.roferreira\source\repos\Cadastro_Aula1502\Cadastro_Aula1502\obj\Debug\net6.0\Cadastro_Aula1502.AssemblyInfo.cs
+C:\Users\Joao.roferreira\source\repos\Cadastro_Aula1502\Cadastro_Aula1502\obj\Debug\net6.0\Cadastro_Aula1502.csproj.CoreCompileInputs.cache
+C:\Users\Joao.roferreira\source\repos\Cadastro_Aula1502\Cadastro_Aula1502\obj\Debug\net6.0\Cadastro_Aula1502.dll
+C:\Users\Joao.roferreira\source\repos\Cadastro_Aula1502\Cadastro_Aula1502\obj\Debug\net6.0\ref\Cadastro_Aula1502.dll
+C:\Users\Joao.roferreira\source\repos\Cadastro_Aula1502\Cadastro_Aula1502\obj\Debug\net6.0\Cadastro_Aula1502.pdb
+C:\Users\Joao.roferreira\source\repos\Cadastro_Aula1502\Cadastro_Aula1502\obj\Debug\net6.0\Cadastro_Aula1502.genruntimeconfig.cache

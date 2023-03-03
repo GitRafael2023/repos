@@ -1,0 +1,15 @@
+C:\Users\Joao.roferreira\source\repos\Atividade_16022023\Atividade_16022023\obj\Debug\net6.0\Atividade_16022023.csproj.AssemblyReference.cache
+C:\Users\Joao.roferreira\source\repos\Atividade_16022023\Atividade_16022023\obj\Debug\net6.0\Atividade_16022023.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Joao.roferreira\source\repos\Atividade_16022023\Atividade_16022023\obj\Debug\net6.0\Atividade_16022023.AssemblyInfoInputs.cache
+C:\Users\Joao.roferreira\source\repos\Atividade_16022023\Atividade_16022023\obj\Debug\net6.0\Atividade_16022023.AssemblyInfo.cs
+C:\Users\Joao.roferreira\source\repos\Atividade_16022023\Atividade_16022023\obj\Debug\net6.0\Atividade_16022023.csproj.CoreCompileInputs.cache
+C:\Users\Joao.roferreira\source\repos\Atividade_16022023\Atividade_16022023\bin\Debug\net6.0\Atividade_16022023.exe
+C:\Users\Joao.roferreira\source\repos\Atividade_16022023\Atividade_16022023\bin\Debug\net6.0\Atividade_16022023.deps.json
+C:\Users\Joao.roferreira\source\repos\Atividade_16022023\Atividade_16022023\bin\Debug\net6.0\Atividade_16022023.runtimeconfig.json
+C:\Users\Joao.roferreira\source\repos\Atividade_16022023\Atividade_16022023\bin\Debug\net6.0\Atividade_16022023.dll
+C:\Users\Joao.roferreira\source\repos\Atividade_16022023\Atividade_16022023\bin\Debug\net6.0\ref\Atividade_16022023.dll
+C:\Users\Joao.roferreira\source\repos\Atividade_16022023\Atividade_16022023\bin\Debug\net6.0\Atividade_16022023.pdb
+C:\Users\Joao.roferreira\source\repos\Atividade_16022023\Atividade_16022023\obj\Debug\net6.0\Atividade_16022023.dll
+C:\Users\Joao.roferreira\source\repos\Atividade_16022023\Atividade_16022023\obj\Debug\net6.0\ref\Atividade_16022023.dll
+C:\Users\Joao.roferreira\source\repos\Atividade_16022023\Atividade_16022023\obj\Debug\net6.0\Atividade_16022023.pdb
+C:\Users\Joao.roferreira\source\repos\Atividade_16022023\Atividade_16022023\obj\Debug\net6.0\Atividade_16022023.genruntimeconfig.cache
